@@ -1,0 +1,27 @@
+* {
+  font-family: Arial, Helvetica, sans-serif;
+  margin: 0;
+  padding: 0;
+}
+
+#root {
+  margin: 0 auto;
+  min-height: 100vh;
+  padding: 2rem;
+  text-align: center;
+  background-color: #3D3B40;
+  color: #fff;
+}
+
+body {
+  box-sizing: border-box;
+  overflow: hidden;
+}
+
+h1 {
+  font-size: 2.5rem;
+}
+
+.time {
+  font-size: 9rem;
+}
